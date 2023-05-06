@@ -1,0 +1,30 @@
+﻿[
+
+  {
+    "text": "Complete the puzzle by filling in the missing characters",
+    "translation":".پازل را با پیدا کردن حروف گم‌شده کامل کنید",
+    "id": -2,
+    "given": "COMPLEBFNGHS",
+    "noscore": true,
+    "topic": "آموزشی"
+  },
+  {
+    "text": "Remember, the topic can some­times help you along.",
+    "topic": "آموزشی",
+    "id": -1,
+    "translation":"به یاد داشته باشید، گاهی اوقات موضوع جمله می ‌تواند به شما کمک کند",
+    "given": "TOPICHANG",
+    "noscore": true
+	
+  },
+  {
+    "text": "Start by doing what’s neces­sary; then do what’s pos­sible; and sudden­ly you are doing the impos­sible.",
+    "author": "Francis of Assisi",
+    "translation":"با انجام آنچه ضروری است شروع کنید؛ سپس هر کاری که ممکن است انجام دهید. و ناگهان دارید غیرممکن را انجام می ‌دهید.",
+    "topic": "Inspirational",
+    "given": "STARBYHEN",
+    "noscore": true,
+    "number": 1,
+    "id": 11
+  }
+ ]
